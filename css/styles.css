@@ -13,3 +13,18 @@
   text-align: center;
   padding: 0.5em;
 }
+.my-container {
+	   color: sandybrown;
+  background-color: beige;
+  border: 1px solid brown;
+  text-align: center;
+  padding: 0.5em;
+	}
+body {
+    background-image: url(../images/plants.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+.order {
+    background-color: #FFBC16;
+}
