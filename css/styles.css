@@ -1,4 +1,10 @@
 @charset "UTF-8";
+img {
+    width: 272px;
+    margin: 20px;
+    padding: 20px;
+    height: 366px;
+}
 .my-class {
     color: rgba(250,151,67,1.00);
     background-color: rgba(234,234,181,1.00);
@@ -69,5 +75,4 @@ body {
     text-align: center;
     line-height: 19px;
     color: #FCFCFC;
-	}
 	}
